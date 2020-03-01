@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps signals</title>
+    <link>https://igoran.github.io/</link>
+    <description>Recent content on DevOps signals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Igor Antonacci - All rights reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 08:34:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://igoran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://igoran.github.io/blog/first-post/</link>
+      <pubDate>Fri, 28 Feb 2020 08:34:13 +0100</pubDate>
+      
+      <guid>https://igoran.github.io/blog/first-post/</guid>
+      <description>Welcome Welcome to my first post written in Markdown.
+I hope to keep the pace with posts I got in mind&amp;hellip;about technology &amp;amp; C.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://igoran.github.io/blog/introduction/</link>
+      <pubDate>Thu, 27 Feb 2020 10:00:21 +0100</pubDate>
+      
+      <guid>https://igoran.github.io/blog/introduction/</guid>
+      <description>Introduction First Indent Hello World
+This is a markdown text Bold and italics .</description>
+    </item>
+    
+  </channel>
+</rss>
